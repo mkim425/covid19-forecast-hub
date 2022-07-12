@@ -3669,6 +3669,7 @@
     }
   ],
   "forecast_dates": [],
+  "submission_date_window": {"lower": 1, "upper": 2},
   "updates_allowed": true,
   "automerge_on_passed_validation": true,
   "submission_formatting_instruction": "https://github.com/reichlab/covid19-forecast-hub/tree/master/data-processed#data-formatting"
