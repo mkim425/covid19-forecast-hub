@@ -1,0 +1,25 @@
+forecast_date,target,target_end_date,location,type,quantile,value
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.01,1867.07585
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.025,2067.02425
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.05,2245.76758
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.1,2455.07016
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.15,2597.20509
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.2,2710.44903
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.25,2807.72665
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.3,2895.15101
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.35,2976.20112
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.4,3053.13279
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.45,3127.57833
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.5,3200.84968
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.55,3274.12102
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.6,3348.56656
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.65,3425.49823
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.7,3506.54834
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.75,3593.9727
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.8,3691.25033
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.85,3804.49426
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.9,3946.62919
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.95,4155.93177
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.975,4334.67511
+2022-07-21,1 wk ahead inc death,2022-07-30,US,quantile,0.99,4534.6235
+2022-07-21,1 wk ahead inc death,2022-07-30,US,point,NA,3209.663
